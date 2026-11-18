@@ -1,0 +1,7 @@
+My Technical Skills:
+
+1. Python 
+2. C Programming 
+3. HTML 
+4. Git and GitHub 
+5. Problem Solving 
