@@ -1,0 +1,7 @@
+My Projects:
+
+1. Delhi House Price Prediction
+2. Heart Disease Prediction
+3. Customer Segmentation
+4. Car Price Prediction
+5. Employee Salary Prediction
